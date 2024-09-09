@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6290b8d8-b164-4801-809e-4a58215afbbd)![Project Logo] 
+
+
 ## About Laravel-Odoo Integration
 
 This project brings together the powerful capabilities of **Laravel**, a leading web application framework, with **Odoo**, a versatile open-source ERP system. The integration focuses on automating essential business processes like user creation and invoicing, providing a streamlined workflow for managing users and financial operations.
@@ -21,8 +24,3 @@ The project is still under development, with plans to extend the integration to 
 - **Laravel**: Backend framework for managing application logic and handling requests.
 - **Odoo**: Open-source ERP system to handle business operations such as user management, invoicing, and orders.
 - **REST API**: Facilitates communication between Laravel and Odoo for automated data flow.
-
-## Contributing
-
-We welcome contributions! Whether you want to report a bug, suggest a feature, or contribute code, feel free to explore the repository and submit issues or pull requests.
-بهذا الشكل يكون التنسيق منظم وواضح للمستخدمين في ملف `README.md`.
