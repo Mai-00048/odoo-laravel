@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6290b8d8-b164-4801-809e-4a58215afbbd)![Project Logo] 
+![image](https://github.com/user-attachments/assets/6290b8d8-b164-4801-809e-4a58215afbbd)
 
 
 ## About Laravel-Odoo Integration
